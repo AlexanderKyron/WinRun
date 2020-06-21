@@ -1,4 +1,4 @@
-﻿namespace D3strUct0r
+﻿namespace WinRun
 {
     partial class Form1
     {
@@ -49,7 +49,7 @@
             this.Opacity = 0D;
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "FUCKER";
+            this.Text = "WinRun";
             this.ResumeLayout(false);
 
         }

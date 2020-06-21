@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Runtime.InteropServices;
 
-namespace D3strUct0r
+namespace WinRun
 {
     public class Logic
     {

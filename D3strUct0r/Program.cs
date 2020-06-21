@@ -7,7 +7,7 @@ using System.Net.Mail;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace D3strUct0r
+namespace WinRun
 {
     static class Program
     {

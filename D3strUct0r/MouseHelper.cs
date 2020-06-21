@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Runtime.InteropServices;
 
-namespace D3strUct0r
+namespace WinRun
 {
     //Unnecessary extra class w00t w00t
     static class MouseHelper
